@@ -1,2 +1,2 @@
 # mcserver
-Java Minecraft server utility
+Server utility for Minecraft Java edition
